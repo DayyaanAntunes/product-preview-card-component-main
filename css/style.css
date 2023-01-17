@@ -111,14 +111,28 @@ body {
     font-weight: 400;
 }
 
-
 .bdesc {
     margin-left: 5px;
     color: hsl(0, 0%, 100%);
 }
+
 .bi {
     margin-right: 5px;
     fill:hsl(0, 0%, 100%);
+}
+
+.attribution {
+    position: absolute;
+    bottom: 10%;
+    right: 10%; 
+    font-size: 14px; 
+    text-align: center; 
+    color: hsl(158, 36%, 37%) ;;
+    
+}
+
+a {
+    color: hsl(228, 45%, 44%); 
 }
 
 
